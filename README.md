@@ -22,3 +22,14 @@ TypeScript code is compiled into JavaScript using the TypeScript compiler (tsc),
 ## 📦 How to Run
 1. Clone the repository
 2. Open `index.html` in your browser
+
+## 📸 Screenshots
+
+### Home Page
+![Home](assets/screenshot1.png)
+
+### Weather Result
+![Weather Result](assets/screenshot2.png)
+
+### city not found
+![city not found](assets/screenshot3.png)

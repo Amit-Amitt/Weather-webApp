@@ -1,4 +1,4 @@
-const API_KEY = "50a873ae***********************6";
+const API_KEY = "YOUR_API_KEY_HERE"; //replace with your own API key
 
 const cityInput = document.getElementById("cityInput") as HTMLInputElement;
 const searchBtn = document.getElementById("searchBtn") as HTMLButtonElement;
